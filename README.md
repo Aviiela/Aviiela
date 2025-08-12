@@ -1,4 +1,3 @@
-# Profile
 ![Header](https://raw.githubusercontent.com/Aviiela/Profile/refs/heads/main/5a7dcab03b7ab598cec6e28e8d8d672d%20(1).png)
 
 # ‹ Hi, I'm Aviiela!
